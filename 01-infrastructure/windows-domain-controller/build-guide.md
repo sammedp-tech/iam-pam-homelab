@@ -197,10 +197,10 @@ This baseline intentionally reflects common enterprise starting states, not best
 
 The following are intentionally not implemented at this stage:
 
-Tiered administration model
-Privileged Access Management tooling
-Credential rotation or vaulting
-Security monitoring and alerting
+- Tiered administration model
+- Privileged Access Management tooling
+- Credential rotation or vaulting
+- Security monitoring and alerting
 
 These gaps will be addressed in later phases of the lab.
 
