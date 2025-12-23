@@ -7,7 +7,7 @@ From this phase onward, **automation is introduced deliberately** to reflect rea
 
 ---
 
-## 🧠 Purpose of This Phase
+##  Purpose of This Phase
 
 You will:
 - Install Windows Server 2022
@@ -17,7 +17,7 @@ You will:
 
 ---
 
-## 🟢 Beginner Track – Manual Foundation
+## Setup - Manual Foundation
 
 ### VM Configuration
 
@@ -75,7 +75,6 @@ You will:
 `
 DC01
 `
-
 5. Restart when prompted
 
 ---
@@ -93,12 +92,11 @@ Subnet Mask: 255.255.255.0
 Default Gateway: (leave blank)
 Preferred DNS: 192.168.10.10
 `
-
 6. Save settings
 
 ---
 
-## 🟦 Automated Phase – Domain Promotion & Baseline
+## Automated Phase – Domain Promotion & Baseline
 
 From this point onward, **PowerShell scripts are used** to perform Domain Controller promotion and baseline configuration.
 
