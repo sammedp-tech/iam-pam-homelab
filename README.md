@@ -31,8 +31,40 @@ You will recreate **real-world identity and privilege issues** commonly seen in 
 
 ❌ Cloud IAM or Zero Trust lab
 
+---
+
 ## Technology Stack
 
 - VMware Workstation Pro (recommended)
 - Windows Server 2022 (Evaluation)
 - Ubuntu Server 22.04 LTS
+
+---
+
+## Phases 
+
+### Phase 0 – Lab Bootstrap
+- VMware
+- ISOs
+- Networking
+
+### Phase 1 – Identity Authority (AD as Control Plane)
+-  **AD** as identity source
+- DC build (scripted)
+- Minimal OU + users
+
+### Phase 2 – Privilege Surfaces (Where PAM Lives)
+- Windows member server
+- Local admin group
+- Domain trust assumptions
+
+### Phase 3 – Non-Human Identities
+- Service accounts
+- Scheduled tasks
+- Credential persistence
+
+### Phase 4 – Control & Remediation
+- Least privilege
+- Credential Rotation
+- Just-in-time
+- Auditability
