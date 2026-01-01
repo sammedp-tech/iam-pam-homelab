@@ -1,4 +1,4 @@
-# Phase 2 – Windows Member Server Build
+# Phase 1 – Windows Member Server Build
 
 This phase introduces a **Windows member server** and intentionally creates
 **privileged access anti-patterns** commonly seen in enterprise environments.
