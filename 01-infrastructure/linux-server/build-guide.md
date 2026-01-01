@@ -3,8 +3,7 @@
 This guide sets up a **Linux server** that will later be used to demonstrate
 **sudo misuse, shared access, SSH risks, and non-human identities**.
 
-The goal is not to teach Linux administration,
-but to create a **realistic privilege entry point** for IAM and PAM use cases.
+The goal is to create a **realistic privilege entry point** for IAM and PAM use cases.
 
 ---
 
