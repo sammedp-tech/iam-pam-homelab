@@ -47,6 +47,7 @@ You will recreate **real-world identity and privilege issues** commonly seen in 
 - VMware
 - ISOs
 - Networking
+Focus on 00-Pre-requisites & 01-Infrastructure.
 
 ### Phase 1 – Identity Authority (AD as Control Plane)
 -  **AD** as identity source
